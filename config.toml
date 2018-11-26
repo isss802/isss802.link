@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "ja-JP"
+title = "isss802.link"
+theme = "bilberry-hugo-theme"
