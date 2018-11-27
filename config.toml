@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://isss802.link"
 languageCode = "ja-JP"
 title = "isss802.link"
 theme = "bilberry-hugo-theme"
