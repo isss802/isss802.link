@@ -1,4 +1,4 @@
 baseURL = "https://isss802.link"
 languageCode = "ja-JP"
 title = "isss802.link"
-theme = "bilberry-hugo-theme"
+theme = "hugo-future-imperfect"
